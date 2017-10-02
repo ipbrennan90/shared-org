@@ -1,0 +1,4 @@
+* Tasks
+** DONE make org mode timestamps work
+   CLOSED: [2017-08-29 Tue 14:50]
+** TODO Make Emacs Pretty

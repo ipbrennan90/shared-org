@@ -1,0 +1,5 @@
+* Tasks
+** TODO finish Week 0 in Harvard CS50
+
+* Introduction
+This is my agenda to keep track of my progress through [[https://github.com/open-source-society/computer-science][open source society cs degree]]

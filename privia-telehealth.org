@@ -1,0 +1,115 @@
+* Tasks
+** TODO disconnect feature?
+** DONE create patient and doctor model
+   CLOSED: [2017-09-11 Mon 08:29]
+   CLOCK: [2017-09-07 Thu 16:00]--[2017-09-08 Fri 09:27] => 17:27
+   add 2 and half hours of untracked time here
+   CLOCK: [2017-09-07 Thu 15:23]--[2017-09-07 Thu 15:48] =>  0:25
+** DONE create consultation model
+   CLOSED: [2017-09-11 Mon 08:29]
+   CLOCK: [2017-09-08 Fri 09:28]--[2017-09-08 Fri 10:07] =>  0:39
+** DONE patient queue
+   CLOSED: [2017-09-11 Mon 08:29]
+** DONE doctor queue view screen
+   CLOSED: [2017-09-11 Mon 08:29]
+** DONE privia-web app setup
+   CLOSED: [2017-09-11 Mon 08:29]
+   CLOCK: [2017-09-07 Thu 11:32]--[2017-09-07 Thu 11:57] =>  0:25
+   CLOCK: [2017-09-07 Thu 09:56]--[2017-09-07 Thu 10:31] =>  0:35
+   CLOCK: [2017-09-07 Thu 09:25]--[2017-09-07 Thu 09:50] =>  0:25
+   CLOCK: [2017-09-07 Thu 08:43]--[2017-09-07 Thu 09:08] =>  0:25
+   CLOCK: [2017-09-07 Thu 07:32]--[2017-09-07 Thu 07:57] =>  0:25
+   CLOCK: [2017-09-06 Wed 11:05]--[2017-09-06 Wed 11:31] =>  0:26
+   CLOCK: [2017-09-06 Wed 10:32]--[2017-09-06 Wed 10:57] =>  0:25
+   CLOCK: [2017-09-05 Tue 15:19]--[2017-09-05 Tue 16:19] =>  1:00
+** DONE Going over Privia Provider screens
+   CLOSED: [2017-08-31 Thu 10:29]
+   CLOCK: [2017-08-31 Thu 10:21]--[2017-08-31 Thu 10:28] =>  0:07
+
+
+* Tasks September 11th 2017n
+** DONE Vidyo setup and call screen (React Component)
+   CLOSED: [2017-09-12 Tue 10:46]
+   CLOCK: [2017-09-11 Mon 15:51]--[2017-09-11 Mon 16:16] =>  0:25
+   CLOCK: [2017-09-11 Mon 15:18]--[2017-09-11 Mon 15:43] =>  0:25
+   CLOCK: [2017-09-11 Mon 14:11]--[2017-09-11 Mon 14:36] =>  0:25
+   CLOCK: [2017-09-11 Mon 13:27]--[2017-09-11 Mon 13:52] =>  0:25
+   CLOCK: [2017-09-11 Mon 10:33]--[2017-09-11 Mon 13:27] =>  2:54
+   CLOCK: [2017-09-11 Mon 09:14]--[2017-09-11 Mon 09:39] =>  0:25
+   CLOCK: [2017-08-31 Thu 23:29]--[2017-08-31 Thu 21:54] => -1:35
+** DONE video call initiation doctor
+   CLOSED: [2017-09-19 Tue 09:49]
+   CLOCK: [2017-09-12 Tue 11:28]--[2017-09-12 Tue 12:10] =>  0:42
+   CLOCK: [2017-09-12 Tue 10:46]--[2017-09-12 Tue 11:11] =>  0:25
+** DONE refactor
+   CLOSED: [2017-09-19 Tue 09:49]
+   CLOCK: [2017-09-15 Fri 09:16]--[2017-09-15 Fri 09:41] =>  0:25
+   CLOCK: [2017-09-14 Thu 13:29]--[2017-09-14 Thu 13:54] =>  0:25
+** DONE debug patient flow bug
+   CLOSED: [2017-09-19 Tue 09:49]
+** DONE video call initiation patient
+   CLOSED: [2017-09-19 Tue 09:49]
+** DONE patient waiting screen
+   CLOSED: [2017-09-19 Tue 09:49]
+
+* Tasks September 19th 2017
+** DONE Get Web Plugin working
+   CLOSED: [2017-09-22 Fri 07:54]
+   CLOCK: [2017-09-19 Tue 14:51]--[2017-09-19 Tue 14:51] =>  0:00
+   CLOCK: [2017-09-19 Tue 12:34]--[2017-09-19 Tue 12:59] =>  0:25
+   CLOCK: [2017-09-19 Tue 12:03]--[2017-09-19 Tue 12:08] =>  0:05
+   CLOCK: [2017-09-19 Tue 10:24]--[2017-09-19 Tue 10:49] =>  0:25
+   CLOCK: [2017-09-19 Tue 09:49]--[2017-09-19 Tue 10:16] =>  0:27
+
+* Tasks September 22nd 2017
+** DONE test vidyo client service
+   CLOSED: [2017-09-22 Fri 10:09]
+   CLOCK: [2017-09-22 Fri 09:53]--[2017-09-22 Fri 10:09] =>  0:16
+   CLOCK: [2017-09-22 Fri 08:56]--[2017-09-22 Fri 09:21] =>  0:25
+   CLOCK: [2017-09-22 Fri 08:26]--[2017-09-22 Fri 08:51] =>  0:25
+   CLOCK: [2017-09-22 Fri 07:56]--[2017-09-22 Fri 08:21] =>  0:25
+** TODO test socket service
+   CLOCK: [2017-09-25 Mon 11:33]--[2017-09-25 Mon 11:58] =>  0:25
+   CLOCK: [2017-09-25 Mon 10:43]--[2017-09-25 Mon 11:08] =>  0:25
+   CLOCK: [2017-09-22 Fri 14:25]--[2017-09-22 Fri 14:50] =>  0:25
+   CLOCK: [2017-09-22 Fri 13:54]--[2017-09-22 Fri 14:19] =>  0:25
+   CLOCK: [2017-09-22 Fri 10:10]--[2017-09-22 Fri 10:59] =>  0:49
+** TODO test api service
+** TODO write readme with current issues
+
+* INTRODUCTION
+Agenda for Privia-Telehealth project
+
+* People
+** Mateo, Engineer, full-stack rails and react
+** Dave Full stack focus on FE
+** Lauren PM
+** Brandon Dorn Product Designer
+** Josh Korr
+
+* Overview
+Telemedicine problem that has already been solved but would like to do it with
+Privia
+** Can be Privia Patient or not
+** Patient Facing
+Linear flow of capturing patient information, who, where, what insurance
+CC Info, charge up front
+** Doctor Facing
+Log into the web app, navigate to tab in web app where they will see the current
+queue. Patient names and info entered earlier in process. Click green button on
+screen "I am ready to see patient now" opens and connects websockets. Can end
+call and follow up survey is sent automatically.
+Whole thing is built in "Web App"
+Patient on landing page enters full name and email address
+email is sent, and can get added to queue through this link to start
+"demographic process," need to make sure the link saves information somehow.
+cookies? Caching?
+** when all people in Video Conference disconnect the "room" is destroyed
+** DONE in the event of a reconnect a new room would need to be created
+   CLOSED: [2017-09-22 Fri 07:54]
+
+
+
+* Dev environment
+** PT environement for testing
+** Stage 4 environment for stagin

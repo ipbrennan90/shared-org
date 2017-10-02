@@ -1,0 +1,36 @@
+* Tasks
+** TODO Finish Elm Tutorial
+** TODO Work on next section of Machine Learnign tutorial
+   CLOCK: [2017-08-31 Thu 21:27]--[2017-08-31 Thu 21:42] =>  0:15
+** TODO Look at and list some good react native blogs
+   CLOCK: [2017-09-11 Mon 08:43]--[2017-09-11 Mon 09:08] =>  0:25
+
+** TODO Read [[http://jlongster.com/][James Longster Blog]]
+
+** TODO  Read [[https://javascriptplayground.com/][js playground blog]]
+** TODO Watch [[https://www.youtube.com/watch?v=f84n5oFoZBc][Hammock Driven Development]]
+** TODO Pick 3 Papers to get through in [[https://github.com/papers-we-love/papers-we-love][Papers We Love Github]]
+** TODO Pick a Language to write a Compiler in
+** TODO Write a compiler in ...
+** TODO look over and try to understand [[https://github.com/thejameskyle/the-super-tiny-compiler][Tiny Compiler]]
+
+
+** TODO Ruby Tutorial
+   CLOCK: [2017-09-01 Fri 13:09]--[2017-09-01 Fri 13:34] =>  0:25
+   CLOCK: [2017-09-01 Fri 12:16]--[2017-09-01 Fri 12:41] =>  0:25
+   CLOCK: [2017-09-01 Fri 11:34]--[2017-09-01 Fri 11:59] =>  0:25
+   CLOCK: [2017-09-01 Fri 09:14]--[2017-09-01 Fri 09:39] =>  0:25
+   CLOCK: [2017-09-01 Fri 08:35]--[2017-09-01 Fri 08:48] =>  0:13
+   CLOCK: [2017-08-31 Thu 14:33]--[2017-08-31 Thu 14:57] =>  0:24
+   CLOCK: [2017-08-31 Thu 13:59]--[2017-08-31 Thu 14:24] =>  0:25
+   CLOCK: [2017-08-31 Thu 13:13]--[2017-08-31 Thu 13:38] =>  0:25
+   CLOCK: [2017-08-31 Thu 12:39]--[2017-08-31 Thu 13:04] =>  0:25
+   CLOCK: [2017-08-31 Thu 11:54]--[2017-08-31 Thu 12:23] =>  0:29
+   CLOCK: [2017-08-31 Thu 10:48]--[2017-08-31 Thu 11:13] =>  0:25
+   CLOCK: [2017-08-31 Thu 10:45]--[2017-08-31 Thu 10:48] =>  0:03
+   CLOCK: [2017-08-31 Thu 10:29]--[2017-08-31 Thu 10:41] =>  0:12
+   CLOCK: [2017-08-30 Wed 15:51]--[2017-08-30 Wed 16:16] =>  0:25
+
+* Introduction
+This is my agenda for professional development projects that are
+work related

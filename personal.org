@@ -1,0 +1,4 @@
+* Introduction
+
+This is my personal agenda for side projects and other development stuff I'm
+doing outside of work

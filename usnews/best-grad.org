@@ -1,0 +1,14 @@
+** Tasks for best-grad project for US News
+
+
+** Tasks September 27th 2017
+
+** TODO get project set up
+** TODO [[[[https://jira.usnews.com/browse/GRAD-2409/]]][Jira-Ticket]]
+   CLOCK: [2017-10-02 Mon 11:17]
+   CLOCK: [2017-10-02 Mon 10:16]--[2017-10-02 Mon 10:24] =>  0:08
+   CLOCK: [2017-09-29 Fri 11:54]--[2017-09-29 Fri 12:19] =>  0:25
+   CLOCK: [2017-09-28 Thu 10:33]--[2017-09-28 Thu 10:58] =>  0:25
+   CLOCK: [2017-09-27 Wed 18:28]--[2017-09-27 Wed 18:53] =>  0:25
+   CLOCK: [2017-09-27 Wed 11:45]--[2017-09-27 Wed 12:10] =>  0:25
+** TODO Load little six data into data column on schools table.

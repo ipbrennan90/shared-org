@@ -1,0 +1,7 @@
+* Tasks
+** TODO read over VidYo docs at [[https://developer.vidyo.io/documentation/4-1-15-7/getting-started][vidyo documentation]]
+** TODO get setup done for privia apps and tools
+** TODO [#C] proof of concept for integrating VidYo for telehealth functionality
+
+* Introduction
+This is my viget related todos and agenda
